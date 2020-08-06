@@ -1,7 +1,8 @@
-/**
-* Name: Sandip Chakraborty resume
-* URL:
+/*
+* Name : Sandip Chakraborty
+* URL: https://sandipchakraborty.github.io/
 * Author: Ayshik Halder
+* License: Apache 2.0 License
 */
 !(function($) {
   "use strict";
