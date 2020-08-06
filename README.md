@@ -1,4 +1,5 @@
-<img  height="480" src="https://github.com/SandipChakraborty/SandipChakraborty/blob/master/readme/profile.jpeg">
+
+# Link to my Portfolio Website : <a href="https://sandipchakraborty.github.io/" alt =" It will be updated soon"> SandipChakraborty </a>
 
 ### Hey, It's <b>Sandip Chakraborty</b> here,
 
@@ -14,7 +15,7 @@ Experienced Software Engineer with a demonstrated history of working in the info
 - ☀️ Hands on Experiences on projects based on:
   > Java | RESTful WebServices | Angular 4 | Hibernate | Spring Framework | Databases | MySql | PostgreSQL | Node | Oauth | Agile | Azure | Ruby on Rails | ML(python) | C | C++  
 
-Link to my Portfolio Website : <a href="https://sandipchakraborty.github.io/" alt =" It will be updated soon"> SandipChakraborty </a>
+#Link to my Portfolio Website : <a href="https://sandipchakraborty.github.io/" alt =" It will be updated soon"> SandipChakraborty </a>
 
 ### Copyright 2020 Sandip Chakraborty
   Licenced under Apache 2.0 
