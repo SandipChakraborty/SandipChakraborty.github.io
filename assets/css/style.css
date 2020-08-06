@@ -904,6 +904,8 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
+  text-align: center;
+  align-items: center;
 }
 
 .contact .info i {
@@ -937,11 +939,13 @@ section {
 
 .contact .info .email, .contact .info .phone {
   margin-top: 40px;
+  text-align: center;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #0563bb;
   color: #fff;
+  text-align: center;
 }
 
 .contact .php-email-form {
